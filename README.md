@@ -4,6 +4,12 @@ A Chinese car manufacturer wants to enter the US market. We are required to mode
 
 Slides can be downloaded <a href="https://github.com/ialkamal/project2-machine-learning/blob/master/technical_presentation/Car_Sales_Predictions.pdf" target="_blank">here</a>. 
 
+## Video Presentation
+
+<p align="center">
+          <a href="https://www.youtube.com/watch?v=aMH-_jQsHUg" target="_blank"><img alt="Car Price Predictions" src="https://github.com/ialkamal/project2-machine-learning/blob/master/images/Car_Price_Predictions.png"/></a>          
+</p>
+
 ## Dataset
 src: https://www.kaggle.com/hellbuoy/car-price-prediction
 - Entries: 205
