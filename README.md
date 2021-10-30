@@ -95,3 +95,16 @@ plt.xticks(fontsize=15)
 plt.yticks(fontsize=15)
 plt.show()
 ```
+
+## Prediction Models and their Performance
+
+| Model| R<sup>2</sup> | RMSE |
+|---|---|---|
+|Baseline| -.19% | 8,233.30|
+|Linear Regression| 81.78% | 3,510.66|
+|Decision Tree| 88.05% | 2,843.92|
+|Bagging Trees| 94.01% | 2,012.87|
+|Random Forest| 94.01% | 2,013.49|
+|Random Forest| 91.80% | 2,354.95|
+
+**Bagging Trees** did the best with an R<sup>2</sup> score of 94.01% and a root mean sqaure error of 2,012.87.
