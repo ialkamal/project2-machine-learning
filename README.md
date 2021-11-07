@@ -106,6 +106,6 @@ plt.show()
 |Bagging Trees| 93.73% | 2,060.15|
 |Random Forest| 94.48% | 1,931.93|
 |Gradient Boosting| 93.48% | 2,099.93|
-|Neural Networks| | 2,311.13|
+|Neural Networks| | 2,213.81|
 
 **Random Forest** did the best with an R<sup>2</sup> score of 94.48% and a root mean sqaure error of 1,931.93.
