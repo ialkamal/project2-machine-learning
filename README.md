@@ -100,11 +100,12 @@ plt.show()
 
 | Model| R<sup>2</sup> | RMSE |
 |---|---|---|
-|Baseline| -.19% | 8,233.30|
-|Linear Regression| 81.78% | 3,510.66|
-|Decision Tree| 88.05% | 2,843.92|
-|Bagging Trees| 94.01% | 2,012.87|
-|Random Forest| 94.01% | 2,013.49|
-|Gradient Boosting| 91.80% | 2,354.95|
+|Baseline| -0.19% | 8,233.30|
+|Linear Regression| 89.51% | 2,664.28|
+|Decision Tree| 91.24% | 2,434.82|
+|Bagging Trees| 93.73% | 2,060.15|
+|Random Forest| 94.48% | 1,931.93|
+|Gradient Boosting| 93.48% | 2,099.93|
+|Neural Networks| | 2,311.13|
 
-**Bagging Trees** did the best with an R<sup>2</sup> score of 94.01% and a root mean sqaure error of 2,012.87.
+**Random Forest** did the best with an R<sup>2</sup> score of 94.48% and a root mean sqaure error of 1,931.93.
