@@ -2,7 +2,9 @@
 
 A Chinese car manufacturer wants to enter the US market. We are required to model the price of cars. This will help management understand how exactly the price varies across different features. They can then accordingly manipulate the design of the cars, the business strategy etc. to meet certain price levels.
 
-Slides can be downloaded <a href="https://github.com/ialkamal/project2-machine-learning/blob/master/technical_presentation/Car_Sales_Predictions.pdf" target="_blank">here</a>. 
+Technical presentation slides can be downloaded <a href="https://github.com/ialkamal/project2-machine-learning/blob/master/technical_presentation/Car_Sales_Predictions.pdf" target="_blank">here</a>. 
+
+Non-Technical presentation slides can be downloaded <a href="https://github.com/ialkamal/project2-machine-learning/blob/master/nontechnical_presentation/Car%20Price%20Predictions%20Non-Technical.pdf" target="_blank">here</a>. 
 
 ## Video Presentation
 
